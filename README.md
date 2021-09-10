@@ -1,6 +1,6 @@
 # Xin chào, tôi là DUONGHACKINSS <img src = "https://github.com/0ximtiaz/0ximtiaz/blob/main/wave.gif" width = "30px">
 
-### - Tôi 35 tuổi Security Enthusist và Bugbounty Hunter đến từ VIETNAMESE: VIETNAM:
+### - Tôi 35 tuổi đến từ VIETNAMESE:
 <img hight = "200" width = "350" alt = "GIF" align = "right" src = "https://github.com/0ximtiaz/0ximtiaz/blob/main/wrench%20watchdog.gif">
 
 ### - Học tập :
