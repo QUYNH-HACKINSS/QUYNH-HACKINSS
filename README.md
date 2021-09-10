@@ -1,6 +1,6 @@
-# Xin chào, tôi là Imtiaz <img src = "https://github.com/0ximtiaz/0ximtiaz/blob/main/wave.gif" width = "30px">
+# Xin chào, tôi là DUONGHACKINSS <img src = "https://github.com/0ximtiaz/0ximtiaz/blob/main/wave.gif" width = "30px">
 
-### - Tôi 20 tuổi Security Enthusist và Bugbounty Hunter đến từ Bangladesh: bangladesh:
+### - Tôi 35 tuổi Security Enthusist và Bugbounty Hunter đến từ VIETNAMESE: VIETNAM:
 <img hight = "200" width = "350" alt = "GIF" align = "right" src = "https://github.com/0ximtiaz/0ximtiaz/blob/main/wrench%20watchdog.gif">
 
 ### - Học tập :
@@ -26,10 +26,3 @@
 - ** may mắn là tôi từ từ mê nó. ❤️ **
 </br>
 
-## 📫 Truyền thông xã hội:
-
-
-```
-
-
-<! - END_SECTION: waka ->
